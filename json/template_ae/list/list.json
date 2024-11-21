@@ -1,0 +1,23 @@
+{
+	"code": 0,
+	"msg": "success",
+	"data": [
+		{
+			"id": "001",
+			"utid": "001",
+			"name": "test",
+			"name_en": "test",
+			"type": "templateapi",
+			"updatetime": "2023-10-09 16:09:19",
+			"classify": "template_ae",
+			"version": 0,
+			"sort": -999,
+			"sync": "2023-10-09 16:09:19",
+			"extra": {
+				"module": "GetLast"
+			},
+			"polyglot": [],
+			"status": 1
+		}
+	]
+}
