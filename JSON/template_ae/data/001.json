@@ -20,6 +20,24 @@
 				"video": "https://raw.githubusercontent.com/sjianji/Magic-Cut-Test/refs/heads/main/data/template_ae/001/cover.png",
 				"videoNeed": 0,
 				"width": 512
+			},
+			{
+				"cover": "https://raw.githubusercontent.com/sjianji/Magic-Cut-Test/refs/heads/main/data/template_ae/002/cover.png",
+				"duration": 0,
+				"file": "https://raw.githubusercontent.com/sjianji/Magic-Cut-Test/refs/heads/main/data/template_ae/002/file.zip",
+				"height": 272,
+				"id": "1020725",
+				"name": "test-002",
+				"pictureNeed": 0,
+				"sort": 0,
+				"textNeed": 0,
+				"type": "template_ae",
+				"ufid": "22167103",
+				"updatetime": "1684916252",
+				"version": 161,
+				"video": "https://raw.githubusercontent.com/sjianji/Magic-Cut-Test/refs/heads/main/data/template_ae/002/cover.png",
+				"videoNeed": 1,
+				"width": 272
 			}
 		],
 		"last_page": 0,
